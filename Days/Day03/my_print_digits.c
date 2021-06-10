@@ -7,7 +7,7 @@
 
 #include <unistd.h>
 
-int my_print_digits (void)
+int my_print_digits(void)
 {
     int i = 48;
 

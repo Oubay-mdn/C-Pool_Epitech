@@ -11,7 +11,7 @@ int my_print_alpha(void)
 
     while (i < 123) {
         my_putchar(i);
-        i ++;
+        i++;
     }
     return (0);
 }
